@@ -21,3 +21,11 @@ https://geonode.themimu.info/layers/geonode%3Ammr_polbnda_adm1_mimu_250k
 Spring Boot
 
 https://www.bezkoder.com/category/spring
+
+
+UI/UX
+
+https://learnui.design/
+
+https://www.crazyegg.com/blog/
+
